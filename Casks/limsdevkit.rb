@@ -1,11 +1,11 @@
 cask 'limsdevkit' do
-  version '0.0.3'
-  sha256 'efba19818a754a81de174ffd5684a113ab733f7c2a24c364c6518284c4c9ee31'
+  version '0.0.4'
+  sha256 'ccffa4a993f2647227036544a40181af8cb11066372a1dd89827fd0239297dc0'
 
   url "https://f001.backblazeb2.com/file/zan-public/homebrew/limsdevkit-v#{version}.dmg"
 
   name 'LIMS Devkit'
-  #homepage ""
+  homepage "https://confluence.stowers.org/x/4gTGBg"
 
   app 'LIMSDevkit.app'
 
